@@ -1,0 +1,1 @@
+Nim is a game where two players alternately take turns to divide a heap of objects into several heaps. Each turn, a player must choose to divide a heap. Note that a heap cannot be divided evenly. A player that cannot continually divide a heap into an uneven heap loses.
